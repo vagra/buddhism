@@ -1,6 +1,6 @@
 ---
 title: "燕尘兰若"
-baseURL: "https://tuiva.com"
+baseURL: "https://buddhism.vercel.app"
 theme: "zen"
 languageCode: "zh-CN"
 defaultContentLanguage: "zh"
@@ -11,7 +11,7 @@ paginatePath: "page"
 rssLimit: 20
 author:
   name: "燕尘"
-  url: "https://tuiva.com"
+  url: "https://buddhism.vercel.app"
   avatar: "path/to/some-image.jpg"
 
 outputFormats:
