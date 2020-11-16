@@ -12,7 +12,7 @@ rssLimit: 20
 author:
   name: "燕尘"
   url: "https://buddhism.vercel.app"
-  avatar: "path/to/some-image.jpg"
+  avatar: "path/some-image.jpg"
 
 outputFormats:
   SearchIndex:
