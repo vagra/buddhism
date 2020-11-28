@@ -40,3 +40,6 @@ params:
   poweredby: false
   sidebar: true
   submitted: true
+
+blackfriday:
+    extensions: [hardLineBreak]
