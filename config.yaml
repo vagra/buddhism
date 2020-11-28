@@ -43,4 +43,4 @@ params:
 
 blackfriday:
   extensions:
-    - hardLineBreak
+  - hardLineBreak
