@@ -41,5 +41,6 @@ params:
   sidebar: true
   submitted: true
 
-blackfriday:
-    extensions: [hardLineBreak]
+markup:
+  blackfriday:
+    extensions: ["hardLineBreak"]
