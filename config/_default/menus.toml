@@ -1,0 +1,14 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "憨山大师开示录"
+  url = "hanshan/"
+  weight = 10
+
+[[main]]
+  name = "虚云老和尚开示录"
+  url = "xuyun/"
+  weight = 20
