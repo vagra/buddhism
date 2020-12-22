@@ -1,3 +1,4 @@
----
-title: '憨山大师法语'
----
++++
+title = "法语"
+layout = "doc_list" #Do not modify
++++

@@ -1,4 +1,4 @@
 +++
-title = "虚云老和尚开示录"
+title = "参禅要旨"
 layout = "doc_list" #Do not modify
 +++
